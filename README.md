@@ -39,6 +39,13 @@ Alerts      Merchant Metrics
 ```
 
 ---
+## Business Problem
+
+Financial institutions process millions of transactions daily.
+
+The objective is to detect suspicious transactions in near real-time while also generating historical analytics for customers and merchants.
+
+Lambda Architecture is used to combine real-time processing with batch analytics.
 
 ## Tech Stack
 
